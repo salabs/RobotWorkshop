@@ -38,9 +38,6 @@ Input Robot Unicorns To Search
 Make Sure You Can See Robot Unicorns
     Capture Page Screenshot
 
-
-
-
 ####Verkkokauppa.com Task Keywords####
 Go To Verkkokauppa.com
 
@@ -49,3 +46,7 @@ Search For Vanilla Coke
 Put The Product In To Shopping Cart
 
 Go To The Checkout Page
+
+
+###Go To Tori.fi####
+#Write your own keywords here. 
