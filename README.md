@@ -7,7 +7,7 @@ robot  my-first.robot
 
 
 robot -t  ${test name} ${suitename}
-robot -t GoToGoogle my-first.robot
+robot -t GoToGoogle --outputdir ./logs/  my-first.robot
 
 
 #Usefull links for your tasks
